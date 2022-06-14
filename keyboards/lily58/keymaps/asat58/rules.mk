@@ -1,0 +1,3 @@
+EXTRAKEY_ENABLE = yes
+WPM_ENABLE = yes
+BOOTLOADER = atmel-dfu
